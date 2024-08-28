@@ -1,6 +1,6 @@
 # dataset info
-dataset_name: "UIEB_syn" 
-dataset_path: "/data"
+dataset_name: "real_Date"
+dataset_path: "/home/muahmmad/projects/Image_enhancement/Enhancement_Dataset"
 
 # image info
 chans: 3
@@ -23,7 +23,7 @@ lambda_d : 10
 lambda_d1 : 1
 version : UIEB_syn_
 
-path_d : ./Par/model/Dne.pth
-path_t : ./Par/model/Tnet.pth
-path_a : ./Par/model/coe.pth
+#path_d : ./Par/model/Dne.pth
+#path_t : ./Par/model/Tnet.pth
+#path_a : ./Par/model/coe.pth
 
